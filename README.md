@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 <div align="center">
   
@@ -38,7 +38,7 @@
 
 ---
 
-### 🔬 Areas I'm Exploring
+###  Areas I'm Exploring
 
 - Prompt Injection & Jailbreak Techniques  
 - Adversarial Machine Learning  
