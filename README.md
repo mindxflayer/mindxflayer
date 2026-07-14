@@ -19,7 +19,6 @@
 -  B.Tech in Computer Science (AIML Specialization)  
 -  Aspiring **AI Red Teamer** with a strong ML foundation  
 -  Interested in **LLM vulnerabilities, adversarial attacks & model robustness**  
--  Believe that **secure AI starts with understanding how it breaks**
 
 ---
 
