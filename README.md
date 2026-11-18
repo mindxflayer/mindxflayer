@@ -40,7 +40,7 @@ independent research + responsible disclosure
 <div align="center">
 
 Open to **AI red teaming and security research roles**<br>
-Case studies, CTF work and certifications are on my portfolio.
+About me, CTF work and blog are on my portfolio.
 
 [![Email](https://img.shields.io/badge/Email-C43D3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaanii.prashant@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge)](https://www.linkedin.com/in/ishaani-prashant)
