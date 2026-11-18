@@ -11,7 +11,6 @@ Then I build the tools that make it harder next time.
 
 ![Vulns Disclosed](https://img.shields.io/badge/Vulns_Disclosed-14-C43D3D?style=for-the-badge)
 ![Critical](https://img.shields.io/badge/Critical-4-C43D3D?style=for-the-badge)
-![CTF Players](https://img.shields.io/badge/CTF_Players-3200%2B-C43D3D?style=for-the-badge)
 
 ![IIT Madras](https://img.shields.io/badge/IIT_Madras-Security_Research_Intern-161b22?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP_VIT_Bhopal-Vice_President-161b22?style=for-the-badge)
