@@ -18,7 +18,6 @@ ishaani, AI/ML security researcher, graduating 2027
 $ cat now.txt
 security research intern @ IIT Madras
 independent research + responsible disclosure
-extending blockade and llm-redteam-scanner
 ```
 
 ### Selected Work
