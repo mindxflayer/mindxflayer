@@ -21,7 +21,7 @@ Then I build the tools that make it harder next time.
 
 ```bash
 $ whoami
-ishaani, AI/ML security researcher, VIT Bhopal '27
+ishaani, AI/ML security researcher, graduating 2027
 
 $ cat now.txt
 security research intern @ IIT Madras
