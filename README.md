@@ -13,7 +13,7 @@ I break LLM apps, agents and APIs so I can build tools that stop them from being
 
 ```bash
 $ whoami
-ishaani, AI/ML security researcher, VIT Bhopal, graduating 2027
+ishaani, AI/ML security researcher, graduating 2027
 
 $ cat now.txt
 security research intern @ IIT Madras
