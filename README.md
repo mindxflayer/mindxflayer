@@ -2,8 +2,7 @@
 
 ![Ishaani Prashant](https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:C43D3D&height=180&section=header&text=Ishaani%20Prashant&fontColor=E8E4D9&fontSize=44&fontAlignY=38&desc=AI%20Security%20%7C%20Application%20Security%20%7C%20Bug%20Bounty&descAlignY=60&descSize=18)
 
-I find vulnerabilities in LLM apps, agents and APIs, dig into emerging AI security problems,<br>
-and build tools that make technology safer.
+I break LLM apps, agents and APIs so I can build tools that stop them from being broken.
 
 ![IIT Madras](https://img.shields.io/badge/IIT_Madras-Security_Research_Intern-161b22?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP_VIT_Bhopal-Vice_President-161b22?style=for-the-badge)
